@@ -1,0 +1,3 @@
+This is a simple card matching game developed in Java that uses a 4x4 matrix (two-dimensional array) as its core data structure. The game consists of 16 cards arranged in a grid of 4 rows and 4 columns. Each card has a letter on its hidden side, and there are exactly 8 unique letters, each appearing twice.
+
+The goal of the game is to find matching pairs by guessing the positions of cards on the matrix. Players select two cards by specifying their row and column indices. If the letters on these two cards are the same, they remain revealed; otherwise, they get hidden again. The game continues until all pairs are matched.
